@@ -9,6 +9,7 @@ library(remotes)
 library(igraph)
 library(litsearchr)
 library(here)
+library(tidyverse)
 
 #Enlance con el repositorio de github por medio de "remotes"
 
